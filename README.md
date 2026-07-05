@@ -25,4 +25,4 @@ Kaggle – Indian Premier League (IPL) Dataset
 * Business Intelligence dashboard with actionable insights
 
 6. ScreenShot Demo
-7. Show what the dashboard looks like : 
+ Show what the dashboard looks like : https://github.com/selonkote/IPL-Dashboard/blob/main/IPL%20Dashboard%20ScreenShot.png
