@@ -23,6 +23,3 @@ Kaggle – Indian Premier League (IPL) Dataset
 * Orange Cap & Purple Cap Statistics
 * Toss Impact and Venue Analysis
 * Business Intelligence dashboard with actionable insights
-
-6. ScreenShot Demo
- Show what the dashboard looks like : https://github.com/selonkote/IPL-Dashboard/blob/main/IPL%20Dashboard%20ScreenShot.png
