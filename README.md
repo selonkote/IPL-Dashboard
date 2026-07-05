@@ -13,7 +13,7 @@ An interactive **Power BI** dashboard built to analyze Indian Premier League (IP
 * Microsoft Excel / CSV
 * Data Modeling
 
-#4. Data Source
+4. Data Source
 Kaggle – Indian Premier League (IPL) Dataset
 
 5. Highlights
@@ -23,3 +23,6 @@ Kaggle – Indian Premier League (IPL) Dataset
 * Orange Cap & Purple Cap Statistics
 * Toss Impact and Venue Analysis
 * Business Intelligence dashboard with actionable insights
+
+6. ScreenShot Demo
+7. Show what the dashboard looks like : 
